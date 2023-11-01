@@ -1,0 +1,81 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan 2",
+      "empresa": "Codigo Con Juan",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "y",
+      "id": 1
+    },
+    {
+      "nombre": "Karen actualizada",
+      "empresa": "Codigo Con Juan",
+      "email": "karen@juan.com",
+      "telefono": "138198313",
+      "notas": "holis",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "sandra",
+      "empresa": "moleira",
+      "email": "lksndfn@kkfj.com",
+      "telefono": "sss",
+      "notas": "sss",
+      "id": 6
+    },
+    {
+      "nombre": "react",
+      "empresa": "react",
+      "email": "aba@gmail.com",
+      "telefono": "77777",
+      "notas": "react",
+      "id": 7
+    },
+    {
+      "nombre": "react-router-dom",
+      "empresa": "router",
+      "email": "router@gmail.com",
+      "telefono": "444",
+      "notas": "kkk",
+      "id": 8
+    },
+    {
+      "nombre": "gato actualizado",
+      "empresa": "g",
+      "email": "g@gmail.com",
+      "telefono": "6666",
+      "notas": "no duerme",
+      "id": 9
+    },
+    {
+      "nombre": "abrahan",
+      "empresa": "juan",
+      "email": "aba@gmail.com",
+      "telefono": "916058633",
+      "notas": "no come",
+      "id": 10
+    }
+  ]
+}
