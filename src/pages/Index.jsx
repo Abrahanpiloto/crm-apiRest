@@ -17,8 +17,8 @@ function Index() {
   
   return (
     <>
-      <h1 className='font-black text-4xl text-blue-900'>Clients</h1>
-      <p className='mt-3 italic'>Manage your clients</p>
+      <h1 className='font-black text-4xl text-blue-900'>Clientes</h1>
+      <p className='mt-3 italic'>Administra tus clientes</p>
 
      {clientes.length ? (
       <table className="w-full bg-white shadow mt-5 rounded-md table-auto">
